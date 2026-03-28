@@ -456,6 +456,32 @@ Over (2x), 2NT is INV++ raise and we are in a forcing pass situation.
 
 ## 6. Conventions
 
+### Good/Bad 2NT
+
+In competitive auctions, a direct 3-level bid shows a **good** (extra values, invitational or forcing) hand, while **2NT is artificial** and shows a **bad** (minimum, just competing) hand. After the 2NT relay, partner bids 3♣ (forced), and the 2NT bidder then places the contract.
+
+**When it applies:** both sides have bid, RHO has just bid 2 of a suit, and you want to bid at the 3-level (new suit or raise of partner's suit).
+
+| Bid | Meaning |
+|-----|---------|
+| **2NT** (artificial) | Bad hand — minimum, just competing; partner must bid 3♣ relay |
+| **Direct 3-level bid** | Good hand — extra values, invitational or game-forcing |
+
+**After the 2NT → 3♣ relay:**
+
+| Continuation | Meaning |
+|---|---|
+| Pass | Long clubs, competitive |
+| 3♦/3♥/3♠ | That suit, competitive (minimum) |
+| Raise to partner's suit | Weak/competitive support |
+| Direct 3-level raise (no relay) | Good raise, extra values |
+
+**Example:** 1♣-(1♥)-1♠-(2♥), opener holds a minimum with long clubs → bids 2NT (relay), partner bids 3♣, opener passes. With extras → opener bids 3♣ directly.
+
+Related to Lebensohl: same slow=weak / fast=strong principle applied to contested 1-level openings.
+
+---
+
 ### XYZ (Double Deux)
 
 General principles after a 1-1-1 sequence:
