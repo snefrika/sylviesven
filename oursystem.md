@@ -460,7 +460,7 @@ Over (2x), 2NT is INV++ raise and we are in a forcing pass situation.
 
 In competitive auctions, a direct 3-level bid shows a **good** (extra values, invitational or forcing) hand, while **2NT is artificial** and shows a **bad** (minimum, just competing) hand. After the 2NT relay, partner bids 3♣ (forced), and the 2NT bidder then places the contract.
 
-**When it applies:** both sides have bid, RHO has just bid 2 of a suit, and you want to bid at the 3-level (new suit or raise of partner's suit).
+**When it applies:** opener only — both sides have bid, RHO has just bid 2 of a suit, and opener wants to bid at the 3-level (new suit or raise of partner's suit).
 
 | Bid | Meaning |
 |-----|---------|
