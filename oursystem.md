@@ -46,23 +46,48 @@ Shows a natural 1♣ opening or a balanced hand. The balanced hand is 11-14 or (
 
 Responder has denied a 4-card major unless GF, with diamonds. (If only INV with diamonds and a 4-card major, transfer to your major first.)
 
-Opener rebids 1NT with 11-14 BAL. Rebids 2♣ with long clubs 11-15. Opener can reverse into a major, 16-19 HCP. A 2NT rebid is 18-19 as usual.
+| Bid | Meaning |
+|-----|---------|
+| 1NT | 11-14 BAL |
+| 2♣ | Clubs, 11-15 (2♦ is now F1; if responder rebids 2♦/2♠ it shows GF with 5+♦ and 4 in the major) |
+| 2♦ | Natural, 11-15. 4♦ and 5+ clubs. Without 4♦, responder has 5+ clubs. 9-card club fit makes 3-level safe. (Also OPPS have at least a 9-card major fit.) |
+| 2M | Reverse, could be 3-card with (31)45 |
 
-Opener's rebid of 2♦ is natural: 4 diamonds and 5+ clubs, but does not show extras: 11-15. If responder has not 4 diamonds he will have at least 5 clubs. With a 9-card club fit the three level is safe. (Also OPPS have at least a 9-card major fit — or 2×8-card major fits.) Responder passes or corrects to 3♣ when weak. 3♦: 2NT is INV, others are GF. (With (31)45, 16 ish, you can reverse in the three card.) After opener's 2♣ rebid, 2♦ is now F1. If responder rebids 2♦♠ it shows a GF hand with 5+♦ and 4 in the major.
+#### Sequence 1♣-1♠, 2♦
+
+| Bid | Meaning |
+|-----|---------|
+| Pass | Diamonds |
+| 2M | Strong, with diamond fit |
+| 2NT | Limit, very rare |
+| 3♣ | To play |
+
+
 
 #### 1♣-1♠, 1NT
 
-- **2♣** — INV or weak diamonds
-- **2♦** — GF
-- **2♥♠** — Natural 4+ and diamonds, GF
-- **2NT** — [WIP] Weak both minors
-- **3♥♠** — [WIP] Short, (31)45-ish
+| Bid | Meaning |
+|-----|---------|
+| 2♣ | INV or weak diamonds |
+| 2♦ | GF |
+| 2♥/2♠ | Natural 4+ and diamonds, GF |
+| 2NT | Weak both minors |
+| 3♥/3♠ | Short, (31)45-ish |
 
 ---
 
 ### The 1NT 11-12 BAL response
 
-Opener passes or bids 2♣ with 11-12(13) hands. Other bids are natural and GF. Opener's 2NT shows a balanced hand with a 4-card major (or both). Opener's 2♦♥ rebid is natural unbalanced, GF. Jumps are shortness. If they intervene T/O X.
+| Bid | Meaning |
+|-----|---------|
+| Pass | 11-12(13), minimum |
+| 2♣ | 11-12(13), minimum with clubs |
+| 2♦ | Natural, unbalanced, GF |
+| 2♥ | Natural, unbalanced, GF |
+| 2NT | Balanced with 4-card major (or both), GF |
+| 3♣/3♦/3♥/3♠ | Shortness (jump = singleton/void), GF |
+
+If opponents intervene: double is takeout.
 
 ---
 
@@ -109,25 +134,29 @@ Responses to Stayman: **2♦**, **2♥**, **2♠**.
 
 #### Sequence 1NT-2♣, 2♦
 
-- **Pass** — weak, 5+ diamonds (and at least 34 in majors)
-- **2♥** — Weak with (4)5 hearts and 4 spades
-- **2♠** — INV with 5+ spades!
-- **2NT** — INV, at least one 4-card major
-- **3♣♦** — Natural 5+, GF (no transfers after Stayman)
-- **3♥♠** — Smolen: shows 4 and 5+ in other major
+| Bid | Meaning |
+|-----|---------|
+| Pass | Weak, 5+ diamonds (and at least 34 in majors) |
+| 2♥ | Weak with (4)5 hearts and 4 spades |
+| 2♠ | INV with 5+ spades |
+| 2NT | INV, at least one 4-card major |
+| 3♣/3♦ | Natural 5+, GF (no transfers after Stayman) |
+| 3♥/3♠ | Smolen: shows 4 and 5+ in other major |
 
 **Smolen:** 1NT-2♣, 2♦-3♠ → 3♠ shows 4 spades and 5+ hearts.
 **Smolen:** 1NT-2♣, 2♦-3♥ → 3♥ shows 5+ spades and 4 hearts. (With 5-5 bid direct 3♦ over 1NT.)
 
 #### Sequence 1NT-2♣, 2♥/2♠
 
-- **2♠** — INV with 5+ spades
-- **2NT** — INV, at least one 4-card major. Over 2♥ this shows 4 spades.
-- **3♣♦** — Natural 5+, GF (and shows 4 in other major)
-- **Raise** — Raises are raises
-- **3OM** — Fit, slammish
-- **3NT** — Shows 4 cards in other major
-- **4♣♦** — Splinter
+| Bid | Meaning |
+|-----|---------|
+| 2♠ | INV with 5+ spades |
+| 2NT | INV, at least one 4-card major (over 2♥ shows 4 spades) |
+| 3♣/3♦ | Natural 5+, GF (and shows 4 in other major) |
+| Raise | Raises are raises |
+| 3OM | Fit, slammish |
+| 3NT | Shows 4 cards in other major |
+| 4♣/4♦ | Splinter |
 
 #### If opponents double 2♣
 
@@ -138,11 +167,13 @@ Responder bids 2♦ and XX with the weak Stayman hands (2♦ shows diamonds and 
 
 **After XX** (1NT-(Pass)-2♣-(X), XX-(Pass)):
 
-- Pass: some clubs and some points
-- 2♦: weak three suiter
-- 2♥: weak majors (not forcing!)
-- 2♠: natural and forcing INV+, can be 5-card
-- 2NT: INV with at least one major, so hearts in this case
+| Bid | Meaning |
+|-----|---------|
+| Pass | Some clubs and some points |
+| 2♦ | Weak three suiter |
+| 2♥ | Weak majors (not forcing!) |
+| 2♠ | Natural and forcing INV+, can be 5-card |
+| 2NT | INV with at least one major (hearts in this case) |
 
 ---
 
@@ -150,15 +181,17 @@ Responder bids 2♦ and XX with the weak Stayman hands (2♦ shows diamonds and 
 
 Opener usually bids 2♥. Now 2♠ is invitational with 5+ hearts!
 
-- **Pass** — Weak with hearts
-- **2♠** — INV with 5+ hearts. If opener rebids 2NT (minimum), 3m is to play with 5♥-5m.
-- **2NT-3♣** — Transfer to a 4+ card minor
-- **3♦** — Transfer, 6+ hearts, INV+
-- **3♥** — Transfer, shows 5+ hearts and 4 spades, slammish
-- **3♠** — Transfer to 3NT, asks for fit.
-- **3NT** — COG (choice of games)
-- **4♣♦** — Splinter, 6+ hearts, slammish
-- **4♥** — "I forgot to bid 4♣"
+| Bid | Meaning |
+|-----|---------|
+| Pass | Weak with hearts |
+| 2♠ | INV with 5+ hearts (if opener rebids 2NT minimum, 3m is to play with 5♥-5m) |
+| 2NT/3♣ | Transfer to a 4+ card minor |
+| 3♦ | Transfer, 6+ hearts, INV+ |
+| 3♥ | Transfer, 5+ hearts and 4 spades, slammish |
+| 3♠ | Transfer to 3NT, asks for fit |
+| 3NT | COG (choice of games) |
+| 4♣/4♦ | Splinter, 6+ hearts, slammish |
+| 4♥ | "I forgot to bid 4♣" |
 
 **The 2♠ INV hand rebid** (1NT-2♦, 2♥-2♠): Showing 5 hearts and invitational strength.
 Opener rebids 2NT with minimum and no heart fit. He can rebid 3♥/4♥ with fit and min/max. With max and no 3-card hearts opener can bid something else, usually 3NT.
@@ -175,14 +208,16 @@ XX and 2♥ show support. 2♥ also shows diamond stopper. XX does **not** show 
 
 Never done with an invitational hand and only 5 spades — use Stayman with 5 spades and invitational hand.
 
-- **Pass** — Weak with spades
-- **2NT-3♣** — Transfer to 4+ card minor
-- **3♦** — Transfer, 4 hearts (and 5+ spades), slammish
-- **3♥** — Transfer, shows 6 spades, INV+
-- **3♠** — Transfer to 3NT, asks for fit.
-- **3NT** — To play
-- **4♣♦** — Splinter, slammish
-- **4♥** — Splinter! Slammish. With 5-5 or longer bid 3♦.
+| Bid | Meaning |
+|-----|---------|
+| Pass | Weak with spades |
+| 2NT/3♣ | Transfer to 4+ card minor |
+| 3♦ | Transfer, 4 hearts (and 5+ spades), slammish |
+| 3♥ | Transfer, 6 spades, INV+ |
+| 3♠ | Transfer to 3NT, asks for fit |
+| 3NT | To play |
+| 4♣/4♦ | Splinter, slammish |
+| 4♥ | Splinter! Slammish (with 5-5 or longer bid 3♦) |
 
 #### Transfer over Transfer for a minor
 
@@ -224,9 +259,11 @@ Either weak or GF. If diamonds and GF, always with shortness (or very slammish �
 
 Opener rebids his better minor. 1NT-2NT, 3m, and now responder can:
 
-- **Pass**
-- **3♦** — Weak with diamonds
-- **3♥♠** — Shortness and diamonds
+| Bid | Meaning |
+|-----|---------|
+| Pass | To play |
+| 3♦ | Weak with diamonds |
+| 3♥/3♠ | Shortness and diamonds |
 
 **Sequence with both minors and GF:** 1NT-2NT, 3m-4m. Now 4NT is sign off.
 
@@ -240,19 +277,23 @@ Opener rebids his better minor. 1NT-2NT, 3m, and now responder can:
 
 ### 1NT-3♣: Puppet stayman
 
-- **3♦** — At least one 4-card major
-- **3♥** — 5-cqrd hearts
-- **3♠** — 5-card spades
-- **3NT** — No -card major.
+| Bid | Meaning |
+|-----|---------|
+| 3♦ | At least one 4-card major |
+| 3♥ | 5-card hearts |
+| 3♠ | 5-card spades |
+| 3NT | No 4-card major |
 
 ---
 
 ### 1NT-3♦: 5-5 majors, INV+
 
-- Opener bids 3♥♠ to play vs INV
-- Opener bids 3NT with a MAX and 2-2 in the majors
-- Opener bids 4♥♠ without much slam interest
-- Opener bids 4♣♦ with a very good hand for ♥♠ (next step is retransfer, not Last Train)
+| Bid | Meaning |
+|-----|---------|
+| 3♥/3♠ | To play vs INV |
+| 3NT | MAX, 2-2 in majors |
+| 4♥/4♠ | No much slam interest |
+| 4♣/4♦ | Very good hand for ♥/♠ (next step is retransfer, not Last Train) |
 
 ---
 
@@ -295,36 +336,47 @@ This is either a weak 2♦ opening, or a strong hand. The strong hands are 4-5 l
 
 **Responses:**
 
-- **2♦** — Most hands bid 2♦
-- **2♥♠** — INV vs weak 2♦, 5+ card. Not forcing!
-- **2NT** — INV+ relay
-- **3♦** — PRE, but prepared for the strong hands
+| Bid | Meaning |
+|-----|---------|
+| 2♦ | Most hands (waiting) |
+| 2♥/2♠ | INV vs weak 2♦, 5+ card, not forcing |
+| 2NT | INV+ relay |
+| 3♦ | PRE, but prepared for the strong hands |
 
 ### Over the 2♦ waiting bid
 
-- **2♥** — Hearts and another GF, or NT 26-27, forces 2♠, and now:
-    - **2NT** — 26-27
-    - **3♣** — Natural 5 hearts and (4)5+ clubs. GF
-    - **3♦** — Natural 5 hearts and (4)5+ diamonds. GF
-    - **3♥** — 6+ hearts, bad suit? With 6♥ GF open 2♦.
-    - **3♠** — 5+ hearts, 4+ spades GF
-    - **3NT** — ?
-    - **4♣♦** — ?6♥4m, not 5-5 (rebid 3m)
-- **2♠** — 5+ card, 3(4) losers. 2NT asks for 2nd suit.
-- **2NT** — 22-23 BAL
-- **3♣♦** — Natural, 6+ card
-- **3♥♠** — 6-card, 4(5) losers
-- **3NT** — ?
-- **4♣♦** — 3-card in 5530, 3 losers
+| Bid | Meaning |
+|-----|---------|
+| 2♥ | Hearts and another GF, or NT 26-27; forces 2♠ (see below) |
+| 2♠ | 5+ card, 3(4) losers (2NT asks for 2nd suit) |
+| 2NT | 22-23 BAL |
+| 3♣/3♦ | Natural, 6+ card |
+| 3♥/3♠ | 6-card, 4(5) losers |
+| 3NT | ? |
+| 4♣/4♦ | 3-card in 5530, 3 losers |
+
+After 2♥ (forces 2♠ relay):
+
+| Bid | Meaning |
+|-----|---------|
+| 2NT | 26-27 |
+| 3♣ | Natural, 5 hearts and (4)5+ clubs, GF |
+| 3♦ | Natural, 5 hearts and (4)5+ diamonds, GF |
+| 3♥ | 6+ hearts, bad suit (with 6♥ GF open 2♦) |
+| 3♠ | 5+ hearts, 4+ spades, GF |
+| 3NT | ? |
+| 4♣/4♦ | ?6♥4m, not 5-5 (rebid 3m) |
 
 ### Over the 2NT relay
 
 Opener is weak; if not we play 6 or 7.
 
-- **3♣** — Weak, now 3♦ is to play, others GF
-- **3♦** — Not so weak, no 3-card major with honor
-- **3♥♠** — Not so weak, 3-card with honor (or any 4-card)
-- **3NT** — Good suit
+| Bid | Meaning |
+|-----|---------|
+| 3♣ | Weak; 3♦ is to play, others GF |
+| 3♦ | Not so weak, no 3-card major with honor |
+| 3♥/3♠ | Not so weak, 3-card with honor (or any 4-card) |
+| 3NT | Good suit |
 
 ---
 
@@ -338,7 +390,7 @@ Multi
 
 (We open 1♣ or 1♦, they intervene.)
 
-If there is room (intervention up to 1♥), we employ transfers. Even 1NT = TRF to clubs. TRF to opp's suit not defined.
+If there is room (intervention up to 1♥), we employ transfers. Even 1NT = TRF to clubs. TRF to opp's suit not defined. 2♠ is lim+ riase
 
 ### One-level overcalls over 1 minor
 
@@ -348,8 +400,8 @@ If there is room (intervention up to 1♥), we employ transfers. Even 1NT = TRF 
 | X | TRF, 4-5 hearts |
 | 1♥ | TRF, 4-5 spades |
 | 1♠ | TRF to 1NT (XYZ) |
-| 1NT |  |
-| 2♣ | Raise |
+| 1NT | TRF clubs raise |
+| 2♣ |TRF ?|
 | 2♦♥ | TRF, 6-card |
 | 2♠ | INV+, fit (with GF bid 1NT?) |
 | 3♦ | [WIP] 5-5M, INV |
@@ -359,9 +411,9 @@ If there is room (intervention up to 1♥), we employ transfers. Even 1NT = TRF 
 |-----|---------|
 | X | TRF, 4-5 spades |
 | 1♠ | TRF to 1NT |
-| 1NT | |
-| 2♣ | Raise |
-| 2♦ | NAT F |
+| 1NT | TRF club raise |
+| 2♣ | TRF|
+| 2♦ | ?|
 | 2♥ | TRF, 6-card |
 | 2♠ | INV+, fit |
 
@@ -370,9 +422,9 @@ If there is room (intervention up to 1♥), we employ transfers. Even 1NT = TRF 
 |-----|---------|
 | X | TRF, 4-5 spades |
 | 1♠ | TRF to 1NT |
-| 1NT |  |
-| 2♣ | Nat F |
-| 2♦ | Raise |
+| 1NT |  TRF clubs raise|
+| 2♣ | TRF diamonds |
+| 2♦ | ? |
 | 2♥ | TRF, 6-card |
 | 2♠ | INV+, fit |
 
@@ -388,8 +440,8 @@ No transfers, new suit F1 (not gameforcing!), X negative double.
 | XX | TRF, diamonds |
 | 1♦♥ | TRF, 4-5 card |
 | 1♠ | TRF to 1NT, could be strong diamonds, D2 |
-| 1NT | |
-| 2♣ | raise|
+| 1NT | TRF club raise|
+| 2♣ | TRF diamonds|
 | 2♦♥ | TRF, 6-card |
 | 2♠ | INV+, fit |
 
@@ -400,8 +452,8 @@ No transfers, new suit F1 (not gameforcing!), X negative double.
 | XX | TRF, hearts, 4-5 |
 | 1♥ | TRF, 4-5 |
 | 1♠ | TRF to 1NT |
-| 1NT |  |
-| 2♣ | Nat F |
+| 1NT | TRF to clubs |
+| 2♣ | TRF riase |
 | 2♦♥ | TRF, 6-card |
 | 2♠ | INV, fit, diamonds |
 
