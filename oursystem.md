@@ -554,4 +554,25 @@ General principles after a 1-1-1 sequence:
 2. Responder has bid or doubled.
 3. Opener rebids on the one level, or does a support double over a one-level overcall. (Also with 1NT rebid, and RHO passes after opener's rebid.)
 
+---
+
+## Abbreviations
+
+| Abbreviation | Meaning |
+|---|---|
+| BAL | Balanced |
+| COG | Choice of Games |
+| F1 | Forcing one round |
+| GF | Game Forcing |
+| HCP | High Card Points |
+| INV | Invitational |
+| INV+ | Invitational or stronger |
+| LHO | Left Hand Opponent |
+| NF | Non Forcing |
+| OM | Other Major |
+| OPPS | Opponents |
+| PRE | Preemptive |
+| RHO | Right Hand Opponent |
+| TRF | Transfer |
+
 
