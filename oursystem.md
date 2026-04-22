@@ -106,6 +106,15 @@ Opener rebids 2NT (11-12 BAL) or 3♣ with minimum hands; others are GF.
 
 ### Responses to 1NT
 
+Stayman shows at least one 4-card major (or longer), **always**!
+- Invitational hands with 5 spades: bid Stayman then 2♠.
+- 5-4 in majors: use Stayman. (But weak with 5 spades and 4 hearts: just transfer to spades.)
+- If only interested in game: use 3♣ Muppet stayman.
+- Transfers after transfers for the majors, but not after Stayman. (2NT invite is needed after Stayman.)
+- 4♣♦ = transfer to 4M, non-slammish (even after intervention if bid with jump).
+- 4♥♠ = to play, something to protect.
+
+
 | Bid | Meaning |
 |-----|---------|
 | 2♣ | Stayman (at least one 4-card major) |
@@ -124,13 +133,7 @@ Opener rebids 2NT (11-12 BAL) or 3♣ with minimum hands; others are GF.
 
 ### 1NT — Stayman (2♣)
 
-Stayman shows at least one 4-card major (or longer), **always**!
-- Invitational hands with 5 spades: bid Stayman then 2♠.
-- 5-4 in majors: use Stayman. (But weak with 5 spades and 4 hearts: just transfer to spades.)
-- If only interested in game: use 3♣ Muppet stayman.
-- Transfers after transfers for the majors, but not after Stayman. (2NT invite is needed after Stayman.)
-- 4♣♦ = transfer to 4M, non-slammish (even after intervention if bid with jump).
-- 4♥♠ = to play, something to protect.
+
 
 Responses to Stayman: **2♦**, **2♥**, **2♠**.
 
