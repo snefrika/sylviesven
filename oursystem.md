@@ -37,8 +37,10 @@ Shows a natural 1♣ opening or a balanced hand. The balanced hand is 11-14 or (
 - Reverses are standard and show (15)16+.
 - Jump reverses:
     - 1♣-1♥, 3♦: Strong unbal raise, not GF.
-    - 1♣-1♥, 3♥???
+    - 1♣-1♥, 3♥: SPlinter
     - 1♣-1♦, 3♦: Strong unbal raise, not GF.
+- 4♣: Strong 6-card and 4-card fit, about 4 losers. (E.G. AQ9x,xx,x,AKQxxx)
+- 4M: 6-4 but weaker than 4♣
 
 ---
 
@@ -82,10 +84,10 @@ Responder has denied a 4-card major unless GF, with diamonds. (If only INV with 
 |-----|---------|
 | Pass | 11-12(13), minimum |
 | 2♣ | 11-12(13), minimum with clubs |
-| 2♦ | Natural, unbalanced, GF |
 | 2♥ | Natural, unbalanced, GF |
+| 2♠ | Natural, unbalanced, GF |
 | 2NT | Balanced with 4-card major (or both), GF |
-| 3♣/3♦/3♥/3♠ | Shortness (jump = singleton/void), GF |
+| 3♦/3♥/3♠ | Shortness (jump = singleton/void), GF |
 
 If opponents intervene: double is takeout.
 
